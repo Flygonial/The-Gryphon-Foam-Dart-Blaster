@@ -14,7 +14,7 @@ The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel 
 
 Some options/variable features are:
 
-* Variable motor center distances from 43.5mm to 38.5mm (Eclipse).'
+* Variable motor center distances from 43.5mm to 38.5mm (Eclipse).
 * Full-length, flat-top picatinny rail.
 * Ambidextrous, or one-sided sling mounts.
 * A mag release meant to be actuated by the operator's off-hand, and one meant for the dominant hand's middle finger.
@@ -35,4 +35,6 @@ Required for assembly:
 * An adhesive for stock assembly, preferably methyl methacrylate based.
 * Modular connectors to flywheel cage and to stock assembly (if using kill switch and/or voltmeter) highly recommended.
 
-Licensed under the CC0 1.0 Universal Public Domain Dedication (Creative Commons) license.
+# Licensed under the CC0 1.0 Universal Public Domain Dedication (Creative Commons) license.
+
+Do whatever you please with this blaster, modify, distribute, sell. Preferably don't claim ownership of the original design, that'd be all I want.
