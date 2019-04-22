@@ -1,7 +1,7 @@
 # The-Gryphon-Foam-Dart-Blaster
 The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel blaster. Its main design features are as follows:
 
-* Uses 130 to 180 sized (20.4mm , brushed DC motors.
+* Uses 130 to 180 sized 20.4mm , brushed DC motors.
 * Semi-auto by rack and pinion with 1:3 gear multiplication. The trigger pull is fairly short at 12mm.
 * Accepts 33 to 38mm OD flywheels (all 2mm shaft fit, superstock upgrade flywheels).
 * Utilizes a horizontal flywheel cage that bolts directly onto the magwell. This is a mounting pattern less prone to misalignment than a Stryfe's mounting bosses or similar.
