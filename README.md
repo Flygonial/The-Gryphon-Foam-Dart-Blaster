@@ -11,7 +11,8 @@ The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel 
 * 14mm bore flywheel cages.
 * Bore-axis is almost as close as possible to top rail of blaster, which is theoretically more intuitive to aim with.
 * Will fit on build volume as small as 120 mm^3.
-* Some options/variable features are:
+
+Some options/variable features are:
 
 * Variable motor center distances from 43.5mm to 38.5mm (Eclipse).'
 * Full-length, flat-top picatinny rail.
