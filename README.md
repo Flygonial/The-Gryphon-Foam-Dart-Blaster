@@ -34,6 +34,7 @@ Required for assembly:
 * 0.5mm coil thickness, 5mm diameter compression springs. 15mm in length for the mag release, 50mm in length for the trigger return spring.
 * An adhesive for stock assembly, preferably methyl methacrylate based.
 * Modular connectors to flywheel cage and to stock assembly (if using kill switch and/or voltmeter) highly recommended.
+* 10-20cm length of 25mm OD PVC pipe (length depends on however long you want your stock). 1 inch, Schedule 40 PVC is the closest imperial comparison, though I may have to design a stock meant specifically for that.
 
 # Licensed under the CC0 1.0 Universal Public Domain Dedication (Creative Commons) license.
 
