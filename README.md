@@ -31,6 +31,7 @@ Required for assembly:
 * M3 nuts
 * M3 screws: 5mm length, 8mm length, 10mm length, one 14-16mm length for mag release pivot, one 20mm length for one specific screw on the motor cover.
 * M2 screws: 4-5mm length for motor mounting.
+* 2x20mm steel dowel pin for the pinion gear.
 * 0.5mm coil thickness, 5mm diameter compression springs. 15mm in length for the mag release, 50mm in length for the trigger return spring.
 * An adhesive for stock assembly, preferably methyl methacrylate based.
 * Modular connectors to flywheel cage and to stock assembly (if using kill switch and/or voltmeter) highly recommended.
