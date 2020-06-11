@@ -8,7 +8,7 @@ The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel 
 * Accepts only Worker Talon magazines at the moment, and therefore, only half-length darts. Subject to change, possibly soon.
 * Battery is located in the stock--there is no room anywhere else.
 * Full-length feed guide integrated in magwell for maximum feeding reliability.
-* 14mm bore flywheel cages.
+* 14mm or 14.5mm bore flywheel cages.
 * Bore-axis is almost as close as possible to top rail of blaster, which is theoretically more intuitive to aim with.
 * Will fit on build volume as small as 120 mm<sup>3</sup>.
 
@@ -35,7 +35,7 @@ Required for assembly:
 * 0.5mm coil thickness, 5mm diameter compression springs. 15mm in length for the mag release, 50mm in length for the trigger return spring.
 * An adhesive for stock assembly, preferably methyl methacrylate based.
 * Modular connectors to flywheel cage and to stock assembly (if using kill switch and/or voltmeter) highly recommended.
-* 10-20cm length of 25mm OD PVC pipe (length depends on however long you want your stock). 1 inch, Schedule 40 PVC is the closest imperial comparison, though I may have to design a stock meant specifically for that.
+* 10-20cm length of 25mm OD PVC pipe (length depends on however long you want your stock), or 3/4' Sch 40 PVC.
 
 # Licensed under the CC0 1.0 Universal Public Domain Dedication (Creative Commons) license.
 
