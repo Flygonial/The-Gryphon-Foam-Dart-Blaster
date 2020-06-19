@@ -5,7 +5,7 @@ The Gryphon is a mostly 3D printable, hobby-grade, Nerf semi-automatic flywheel 
 * Semi-auto by rack and pinion with 1:3 gear multiplication. The trigger pull is fairly short at 12mm.
 * Accepts 33 to 38mm OD flywheels (all 2mm shaft fit, superstock upgrade flywheels).
 * Utilizes a horizontal flywheel cage that bolts directly onto the magwell. This is a mounting pattern less prone to misalignment than a Stryfe's mounting bosses or similar.
-* Accepts only Worker Talon magazines at the moment, and therefore, only half-length darts. Subject to change, possibly soon.
+* Accepts Worker Talon mags, Katana-geometry mags with a lower release cut-out, and almost all full-length magazines.
 * Battery is located in the stock--there is no room anywhere else.
 * Full-length feed guide integrated in magwell for maximum feeding reliability.
 * Bore-axis is almost as close as possible to top rail of blaster, which is theoretically more intuitive to aim with.
