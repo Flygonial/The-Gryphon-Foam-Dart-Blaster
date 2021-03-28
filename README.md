@@ -15,11 +15,16 @@ Some options/variable features are:
 
 * Variable motor center distances from 43.5mm to 38.5mm (Eclipse).
 * Full-length, flat-top picatinny rail.
-* Ambidextrous, or one-sided sling mounts.
+* Ambidextrous, or one-sided sling mounts, or a WORKER attachable sling mount.
 * A mag release meant to be actuated by the operator's off-hand, and one meant for the dominant hand's middle finger.
 * Flash hider: Helps work around cover, and can be used to house and launch a mega dart.
-* Kill-switch mount on stock, and a kill-switch + voltmeter mount on stock.
-* 14mm or 14.5mm bore flywheel cages.
+* Kill-switch mount on stock, and a kill-switch + voltmeter mount on stock, and variations for imperial PVC using 3/4'' PVC instead of 25mm PVC.
+* An additional EXPD stock option that holds larger batteries, has the same options.
+* 14mm or 14.5mm bore flywheel cages or MAX cages, which are 15mm bore, Daybreak / Twilight only, have extra motor can support, and are intended for maximum FPS.
+* An optional foregrip and magwell option for mounting this foregrip.
+* An optional bottom-picatinny variant of the motor cover.
+* 2-stage flywheel cages in all the aforementioned 'crushes' and bore options.
+* Talon, 'Kathanha/Katobu', and full-length magwell options.
 
 Required for assembly:
 
