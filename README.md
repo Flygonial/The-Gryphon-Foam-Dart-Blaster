@@ -46,4 +46,4 @@ Required for assembly:
 
 Do whatever you please with this blaster, modify, distribute, sell. Preferably don't claim ownership of the original design, that'd be all I want.
 
-The main CAD files are bigger than 25 MB and have stopped playing nice with GitHub, so the most up to date source files at any time are available here: https://a360.co/2N3szi3
+The main CAD files are bigger than 25 MB and have stopped playing nice with GitHub, so the most up to date source files at any time are available here: https://a360.co/4bTqc8o
